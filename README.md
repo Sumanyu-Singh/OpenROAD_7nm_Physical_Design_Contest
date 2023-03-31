@@ -125,13 +125,12 @@ cp results/asap7/ibex/base/6_1_merged.gds results/asap7/ibex/base/6_final.gds
  ```
  make gui_final
  ```
-
-![GUI](<img width="1920" alt="using_orfs" src="https://user-images.githubusercontent.com/100671647/229200480-ff8d17c4-5323-4421-aea7-5cd44c8496ff.png">)
+   <img width="1920" alt="using_orfs" src="https://user-images.githubusercontent.com/100671647/229200480-ff8d17c4-5323-4421-aea7-5cd44c8496ff.png">
 
 
 ## Understanding the directory structure
 
-![directory](<img width="1914" alt="drc_update" src="https://user-images.githubusercontent.com/100671647/229200831-f24241ee-deb0-460b-b8ca-f561221c5beb.png">)
+  <img width="1914" alt="drc_update" src="https://user-images.githubusercontent.com/100671647/229200831-f24241ee-deb0-460b-b8ca-f561221c5beb.png">
 
 
 ## Understanding and viewing Reports
